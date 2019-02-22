@@ -1,0 +1,25 @@
+---
+title: "Annual Report 2018"
+author: "Peter von Rohr"
+date: 2019-02-22
+output: html_notebook
+---
+
+## Disclaimer
+Draft for annual report of research and developement in ASR. Projects that I report are
+
+* QA and AM
+* Single Step
+* SESAM
+
+
+
+## QA and AM
+Auf der konzeptionellen Ebene haben wir den Begriff der Reproduzierbarkeit als den zentralen Begriff identifiziert. Nur wenn Analysen reproduzierbar sind, können Aussagen zur Qualität der Resultate gemacht werden. Verschiedene Massnahmen zur Verbesserung der Reproduzierbarkeit in unseren Routineabläufen werden aktuell umgesetzt. Ein 
+
+
+## Single Step
+
+
+## SESAM
+
